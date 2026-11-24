@@ -12,6 +12,9 @@ yolo11n.pt · epochs 100 · imgsz 640 · batch 16 · Colab T4
 | mAP50 | mAP50-95 | Precision | Recall |
 |---|---|---|---|
 
+## 자료 수집 드라이브
+https://drive.google.com/drive/folders/1NbX-NvxrohvJue93g7YsNCg3UBVV3QTP?usp=drive_link
+
 
 
 
