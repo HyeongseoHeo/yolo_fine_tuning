@@ -1,0 +1,14 @@
+names:
+- comb
+- perfume
+- powerbank
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: yolo-class-6aa6k
+  url: https://universe.roboflow.com/yolosbj/yolo-class-6aa6k/dataset/1
+  version: 1
+  workspace: yolosbj
+test: ../test/images
+train: ../train/images
+val: ../valid/images
