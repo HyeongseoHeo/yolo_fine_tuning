@@ -3,7 +3,7 @@
 ## 데이터셋
 | 클래스 | train | valid | test |
 |---|---|---|---|
-| power_bank | | | |
+| powerbank | | | |
 | comb | | | |
 | perfume | | | |
 ## 학습 설정
