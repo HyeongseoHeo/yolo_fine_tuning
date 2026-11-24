@@ -13,9 +13,7 @@ yolo11n.pt · epochs 100 · imgsz 640 · batch 16 · Colab T4
 ## 성능
 | mAP50 | mAP50-95 | Precision | Recall |
 |---|---|---|---|
-## 결과 영상
 
-https://github.com/user-attachments/assets/3ccc7e72-33cd-4ac2-a311-f157c6b5105b
 
 
 
