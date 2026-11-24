@@ -15,5 +15,7 @@ yolo11n.pt · epochs 100 · imgsz 640 · batch 16 · Colab T4
 |---|---|---|---|
 ## 결과 영상
 
-https://github.com/user-attachments/assets/b443a3af-9844-4594-bcf6-984a597801b3
+https://github.com/user-attachments/assets/3ccc7e72-33cd-4ac2-a311-f157c6b5105b
+
+
 
